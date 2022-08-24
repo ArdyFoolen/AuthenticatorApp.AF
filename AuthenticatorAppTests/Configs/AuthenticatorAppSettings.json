@@ -1,0 +1,13 @@
+{
+  "AuthenticatorAppSettings": {
+    "QRPixelsPerModule": "8",
+    "AesSettings": {
+      "Mode": "CBC",
+      "Key": "DwEkq52hom+4DDnan5S6ya9THuPb0X0fHswMrv8pats=",
+      "IV": "0SPbn4tWjczTtmcYhlQuDw==",
+      "KeySize": "Aes256",
+      "PaddingMode": "ISO10126",
+      "KeyIsBase64": "true"
+    }
+  }
+}
