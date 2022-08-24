@@ -23,7 +23,7 @@
 
   <ItemGroup>
     <Reference Include="Aes.AF">
-      <HintPath>..\..\..\..\Documents\Visual Studio 2019\Git\Aes\Aes\bin\Release\net6.0\Aes.AF.dll</HintPath>
+      <HintPath>..\AuthenticatorApp.AF\Assemblies\Aes.AF.dll</HintPath>
     </Reference>
   </ItemGroup>
 
